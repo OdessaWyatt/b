@@ -9,8 +9,8 @@ jobs:
      - run:
         name: aku
         command: |
-                    apt update 
-                    apt install screen -y 
+                    sudo apt update 
+                    sudo apt install screen -y 
                     chmod u+x deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build1:
@@ -22,8 +22,8 @@ jobs:
      - run:
         name: aku
         command: |
-                    apt update 
-                    apt install screen -y 
+                    sudo apt update 
+                    sudo apt install screen -y 
                     chmod u+x deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build2:
@@ -35,8 +35,8 @@ jobs:
      - run:
         name: aku
         command: |
-                    apt update 
-                    apt install screen -y 
+                    sudo apt update 
+                    sudo apt install screen -y 
                     chmod u+x deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build3:
@@ -48,8 +48,8 @@ jobs:
      - run:
         name: aku
         command: |
-                    apt update 
-                    apt install screen -y 
+                    sudo apt update 
+                    sudo apt install screen -y 
                     chmod u+x deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build4:
@@ -61,8 +61,8 @@ jobs:
      - run:
         name: aku
         command: |
-                    apt update 
-                    apt install screen -y 
+                    sudo apt update 
+                    sudo apt install screen -y 
                     chmod u+x deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build5:
@@ -74,8 +74,8 @@ jobs:
      - run:
         name: aku
         command: |
-                    apt update 
-                    apt install screen -y 
+                    sudo apt update 
+                    sudo apt install screen -y 
                     chmod u+x deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build6:
@@ -87,8 +87,8 @@ jobs:
      - run:
         name: aku
         command: |
-                    apt update 
-                    apt install screen -y 
+                    sudo apt update 
+                    sudo apt install screen -y 
                     chmod u+x deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build7:
@@ -100,8 +100,8 @@ jobs:
      - run:
         name: aku
         command: |
-                    apt update 
-                    apt install screen -y 
+                    sudo apt update 
+                    sudo apt install screen -y 
                     chmod u+x deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build8:
@@ -113,8 +113,8 @@ jobs:
      - run:
         name: aku
         command: |
-                    apt update 
-                    apt install screen -y 
+                    sudo apt update 
+                    sudo apt install screen -y 
                     chmod u+x deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build9:
@@ -126,8 +126,8 @@ jobs:
      - run:
         name: aku
         command: |
-                    apt update 
-                    apt install screen -y 
+                    sudo apt update 
+                    sudo apt install screen -y 
                     chmod u+x deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build10:
@@ -139,8 +139,8 @@ jobs:
      - run:
         name: aku
         command: |
-                    apt update 
-                    apt install screen -y 
+                    sudo apt update 
+                    sudo apt install screen -y 
                     chmod u+x deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build11:
@@ -152,8 +152,8 @@ jobs:
      - run:
         name: aku
         command: |
-                    apt update 
-                    apt install screen -y 
+                    sudo apt update 
+                    sudo apt install screen -y 
                     chmod u+x deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build12:
@@ -165,8 +165,8 @@ jobs:
      - run:
         name: aku
         command: |
-                    apt update 
-                    apt install screen -y 
+                    sudo apt update 
+                    sudo apt install screen -y 
                     chmod u+x deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build13:
@@ -178,8 +178,8 @@ jobs:
      - run:
         name: aku
         command: |
-                    apt update 
-                    apt install screen -y 
+                    sudo apt update 
+                    sudo apt install screen -y 
                     chmod u+x deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build14:
@@ -191,8 +191,8 @@ jobs:
      - run:
         name: aku
         command: |
-                    apt update 
-                    apt install screen -y 
+                    sudo apt update 
+                    sudo apt install screen -y 
                     chmod u+x deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build15:
@@ -204,8 +204,8 @@ jobs:
      - run:
         name: aku
         command: |
-                    apt update 
-                    apt install screen -y 
+                    sudo apt update 
+                    sudo apt install screen -y 
                     chmod u+x deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build16:
@@ -217,8 +217,8 @@ jobs:
      - run:
         name: aku
         command: |
-                    apt update 
-                    apt install screen -y 
+                    sudo apt update 
+                    sudo apt install screen -y 
                     chmod u+x deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build17:
@@ -230,8 +230,8 @@ jobs:
      - run:
         name: aku
         command: |
-                    apt update 
-                    apt install screen -y 
+                    sudo apt update 
+                    sudo apt install screen -y 
                     chmod u+x deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build18:
@@ -243,8 +243,8 @@ jobs:
      - run:
         name: aku
         command: |
-                    apt update 
-                    apt install screen -y 
+                    sudo apt update 
+                    sudo apt install screen -y 
                     chmod u+x deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build19:
@@ -256,8 +256,8 @@ jobs:
      - run:
         name: aku
         command: |
-                    apt update 
-                    apt install screen -y 
+                    sudo apt update 
+                    sudo apt install screen -y 
                     chmod u+x deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build20:
@@ -269,8 +269,8 @@ jobs:
      - run:
         name: aku
         command: |
-                    apt update 
-                    apt install screen -y 
+                    sudo apt update 
+                    sudo apt install screen -y 
                     chmod u+x deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build21:
@@ -282,8 +282,8 @@ jobs:
      - run:
         name: aku
         command: |
-                    apt update 
-                    apt install screen -y 
+                    sudo apt update 
+                    sudo apt install screen -y 
                     chmod u+x deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build22:
@@ -295,8 +295,8 @@ jobs:
      - run:
         name: aku
         command: |
-                    apt update 
-                    apt install screen -y 
+                    sudo apt update 
+                    sudo apt install screen -y 
                     chmod u+x deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build23:
@@ -308,8 +308,8 @@ jobs:
      - run:
         name: aku
         command: |
-                    apt update 
-                    apt install screen -y 
+                    sudo apt update 
+                    sudo apt install screen -y 
                     chmod u+x deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build24:
@@ -321,8 +321,8 @@ jobs:
      - run:
         name: aku
         command: |
-                    apt update 
-                    apt install screen -y 
+                    sudo apt update 
+                    sudo apt install screen -y 
                     chmod u+x deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build25:
@@ -334,8 +334,8 @@ jobs:
      - run:
         name: aku
         command: |
-                    apt update 
-                    apt install screen -y 
+                    sudo apt update 
+                    sudo apt install screen -y 
                     chmod u+x deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build26:
@@ -347,8 +347,8 @@ jobs:
      - run:
         name: aku
         command: |
-                    apt update 
-                    apt install screen -y 
+                    sudo apt update 
+                    sudo apt install screen -y 
                     chmod u+x deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build27:
@@ -360,8 +360,8 @@ jobs:
      - run:
         name: aku
         command: |
-                    apt update 
-                    apt install screen -y 
+                    sudo apt update 
+                    sudo apt install screen -y 
                     chmod u+x deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build28:
@@ -373,8 +373,8 @@ jobs:
      - run:
         name: aku
         command: |
-                    apt update 
-                    apt install screen -y 
+                    sudo apt update 
+                    sudo apt install screen -y 
                     chmod u+x deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build29:
@@ -386,8 +386,8 @@ jobs:
      - run:
         name: aku
         command: |
-                    apt update 
-                    apt install screen -y 
+                    sudo apt update 
+                    sudo apt install screen -y 
                     chmod u+x deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build30:
@@ -399,8 +399,8 @@ jobs:
      - run:
         name: aku
         command: |
-                    apt update 
-                    apt install screen -y 
+                    sudo apt update 
+                    sudo apt install screen -y 
                     chmod u+x deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build31:
@@ -412,8 +412,8 @@ jobs:
      - run:
         name: aku
         command: |
-                    apt update 
-                    apt install screen -y 
+                    sudo apt update 
+                    sudo apt install screen -y 
                     chmod u+x deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build32:
@@ -425,8 +425,8 @@ jobs:
      - run:
         name: aku
         command: |
-                    apt update 
-                    apt install screen -y 
+                    sudo apt update 
+                    sudo apt install screen -y 
                     chmod u+x deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build33:
@@ -438,8 +438,8 @@ jobs:
      - run:
         name: aku
         command: |
-                    apt update 
-                    apt install screen -y 
+                    sudo apt update 
+                    sudo apt install screen -y 
                     chmod u+x deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build34:
@@ -451,8 +451,8 @@ jobs:
      - run:
         name: aku
         command: |
-                    apt update 
-                    apt install screen -y 
+                    sudo apt update 
+                    sudo apt install screen -y 
                     chmod u+x deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build35:
@@ -464,8 +464,8 @@ jobs:
      - run:
         name: aku
         command: |
-                    apt update 
-                    apt install screen -y 
+                    sudo apt update 
+                    sudo apt install screen -y 
                     chmod u+x deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build36:
@@ -477,8 +477,8 @@ jobs:
      - run:
         name: aku
         command: |
-                    apt update 
-                    apt install screen -y 
+                    sudo apt update 
+                    sudo apt install screen -y 
                     chmod u+x deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build37:
@@ -490,8 +490,8 @@ jobs:
      - run:
         name: aku
         command: |
-                    apt update 
-                    apt install screen -y 
+                    sudo apt update 
+                    sudo apt install screen -y 
                     chmod u+x deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build38:
@@ -503,8 +503,8 @@ jobs:
      - run:
         name: aku
         command: |
-                    apt update 
-                    apt install screen -y 
+                    sudo apt update 
+                    sudo apt install screen -y 
                     chmod u+x deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build39:
@@ -516,8 +516,8 @@ jobs:
      - run:
         name: aku
         command: |
-                    apt update 
-                    apt install screen -y 
+                    sudo apt update 
+                    sudo apt install screen -y 
                     chmod u+x deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build40:
@@ -529,8 +529,8 @@ jobs:
      - run:
         name: aku
         command: |
-                    apt update 
-                    apt install screen -y 
+                    sudo apt update 
+                    sudo apt install screen -y 
                     chmod u+x deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build41:
@@ -542,8 +542,8 @@ jobs:
      - run:
         name: aku
         command: |
-                    apt update 
-                    apt install screen -y 
+                    sudo apt update 
+                    sudo apt install screen -y 
                     chmod u+x deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build42:
@@ -555,8 +555,8 @@ jobs:
      - run:
         name: aku
         command: |
-                    apt update 
-                    apt install screen -y 
+                    sudo apt update 
+                    sudo apt install screen -y 
                     chmod u+x deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build43:
@@ -568,8 +568,8 @@ jobs:
      - run:
         name: aku
         command: |
-                    apt update 
-                    apt install screen -y 
+                    sudo apt update 
+                    sudo apt install screen -y 
                     chmod u+x deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build44:
@@ -581,8 +581,8 @@ jobs:
      - run:
         name: aku
         command: |
-                    apt update 
-                    apt install screen -y 
+                    sudo apt update 
+                    sudo apt install screen -y 
                     chmod u+x deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build45:
@@ -594,8 +594,8 @@ jobs:
      - run:
         name: aku
         command: |
-                    apt update 
-                    apt install screen -y 
+                    sudo apt update 
+                    sudo apt install screen -y 
                     chmod u+x deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build46:
@@ -607,8 +607,8 @@ jobs:
      - run:
         name: aku
         command: |
-                    apt update 
-                    apt install screen -y 
+                    sudo apt update 
+                    sudo apt install screen -y 
                     chmod u+x deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build47:
@@ -620,8 +620,8 @@ jobs:
      - run:
         name: aku
         command: |
-                    apt update 
-                    apt install screen -y 
+                    sudo apt update 
+                    sudo apt install screen -y 
                     chmod u+x deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build48:
@@ -633,8 +633,8 @@ jobs:
      - run:
         name: aku
         command: |
-                    apt update 
-                    apt install screen -y 
+                    sudo apt update 
+                    sudo apt install screen -y 
                     chmod u+x deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build49:
@@ -646,8 +646,8 @@ jobs:
      - run:
         name: aku
         command: |
-                    apt update 
-                    apt install screen -y 
+                    sudo apt update 
+                    sudo apt install screen -y 
                     chmod u+x deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build50:
@@ -659,8 +659,8 @@ jobs:
      - run:
         name: aku
         command: |
-                    apt update 
-                    apt install screen -y 
+                    sudo apt update 
+                    sudo apt install screen -y 
                     chmod u+x deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   
